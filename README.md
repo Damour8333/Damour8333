@@ -1,4 +1,5 @@
 ### Hi there 👋
+Bonjour je m'a&ppelle Jean-François Damour,je suis en reconversion professionnelle dans le développement informatique;
 
 <!--
 **Damour8333/Damour8333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
