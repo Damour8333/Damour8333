@@ -20,9 +20,18 @@ De découvrir des sites et exercice que j'ai mis en ligne grâce a Netifly
 J'ai utilisé le framework bootstrap et le compilateur sass, pour avoir l'occasion de pratiquer sur ces technologies
 https://lesjougadousprototype.netlify.app
 
-2/Tuto réalisé sur you from scrath, les tuto sont un complément a la théorie mais aussi pour comprendre certains mécanisme,ils ont utiles quand ils sont complété 
+2/Tuto réalisé sur you Tube from scrath, les tuto sont un complément a la théorie mais aussi pour comprendre certains mécanisme,ils ont utiles quand ils sont complété 
 d'une prise de note et d'un mindmapping
 https://permakulture.netlify.app
+
+3/sur ce projet que j'ai réalisé from scratch j'ai  utilisé grid et flexbox pour la pratique;
+https://worldlifeearth-test.netlify.app
+
+4/From scratch sur aussi responsivre et mobile first
+https://guitarefacile.netlify.app
+
+
+
 
 
 
