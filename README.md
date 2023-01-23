@@ -2,6 +2,7 @@
 
 Bonjour je m''appelle Jean-François Damour,je suis en reconversion professionnelle dans le développement informatique;
 J' étais imprimeur pendant 20 ans.
+ 
  Pourquoi devenir développeur?
 
 Le développeur c'est l'imprimeur du XXI éme siècle ,il travaille avec un objet de communications l'ordinateur pour un client, 
