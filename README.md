@@ -1,59 +1,16 @@
-### Hi there 👋
+Jean-François Damour - Développeur Web & Auteur-Compositeur
+"De l'imprimerie au code, un parcours de passionné pour créer et partager."
 
-Bonjour je m''appelle Jean-François Damour,je suis en reconversion professionnelle dans le développement informatique;
-J' étais imprimeur pendant 20 ans.
- 
- Pourquoi devenir développeur?
+Bienvenue sur mon profil GitHub !
+Je suis actuellement en reconversion professionnelle dans le développement web, avec un passé d'imprimeur de 20 ans. Pour moi, le développeur est l'imprimeur du XXIe siècle, utilisant l’ordinateur comme outil de création pour résoudre des problématiques et partager des messages. Mon approche du développement s'inspire de mon expérience : partir de rien pour créer quelque chose de concret, à l’image d’une feuille blanche qui se transforme sous la rotative.
 
-Le développeur c'est l'imprimeur du XXI éme siècle ,il travaille avec un objet de communications l'ordinateur pour un client, 
-qui veut promouvoir , communiquer, résoudre un problème, comme l'imprimeur qui travaille avec une rotative pour les mêmes problématique;
-L'analogie ne s’arrête pas la pour moi, je me souviens l'effet de voir une feuille blanche partir dans un margeur et se transformer en texte ou en photo;
-C'est presque de la magie pour les non initiés;
-Le développement c'est la même magie, on part de rien et quelque chose se crée;Je suis depuis toujours  un créateur, j'aime écrire, j'aime chercher,j'aime découvrir ce qu'il y a derrière les choses, j'aime décortiquer, et surtout j'adore la satisfaction d'avoir trouvé et d'apprendre  grâce a ma persévérance et mes erreurs.
-Toutes ces valeurs peuvent être mis au service de ce métier que je pratique tous les jours en amateur, pour pouvoir être un jour un professionnel  dévoué a sa tache;
+Créateur dans l’âme, je suis animé par le désir d’apprendre, d’explorer, de comprendre et de trouver des solutions. Je suis actuellement en phase de pratique et de perfectionnement sur plusieurs technologies comme le HTML, CSS, Bootstrap, Sass, Flexbox et Grid, tout en m'impliquant dans des projets réels, notamment pour une chorale locale.
 
+Quelques projets réalisés :
 
-Je vous propose d'explorer mon profil git hub ;
+Les Jougadous - Chorale de Bègles : Site réalisé avec Bootstrap et Sass pour mettre en avant cette belle initiative locale.
+Permaculture - Tuto YouTube : Un projet éducatif réalisé from scratch, avec prise de notes et mind mapping pour mieux comprendre les mécanismes du développement.
+World Life Earth : Un projet pour pratiquer Flexbox et Grid, en me concentrant sur une mise en page fluide et adaptable.
+Actuellement, je combine également mon métier de développeur web avec ma passion de la musique, en utilisant le web comme outil pour promouvoir mes créations d'auteur-compositeur.
 
-De découvrir des sites et exercices que j'ai mis en ligne grâce a Netifly
-
-1/un projet concret que je fais bénévolement avec une chorale  Les Jougadous basé a bégles dans laquelle je fais de la guitare;
-J'ai utilisé le framework bootstrap et le compilateur sass, pour avoir l'occasion de pratiquer sur ces technologies
-https://lesjougadousprototype.netlify.app
-
-2/Tuto réalisé sur you Tube from scratch, les tuto sont un complément a la théorie mais aussi pour comprendre certains mécanisme,ils sont utiles  complété 
-d'une prise de note et d'un mindmapping.
-https://permakulture.netlify.app
-
-3/sur ce projet que j'ai réalisé from scratch j'ai  utilisé grid et flexbox pour la pratique;
-https://worldlifeearth-test.netlify.app
-
-4/From scratch sur aussi responsivre et mobile first
-https://guitarefacile.netlify.app
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Damour8333/Damour8333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+N’hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou question.
